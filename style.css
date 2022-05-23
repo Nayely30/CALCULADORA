@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    background-color: #c88979;
+    color: #fffefe;
+    text-align: center;
+    font-size: 90px;
+    font-family: 'Lobster', cursive;
+}
+h3{
+    background-color: #c88979;
+    color: #ffffff;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+}
+.res{
+    padding: 15px;
+    margin: 5px;
+    text-align: center;
+    color: #1f1918;
+    font-size: 30px;
+    font-family: 'Handlee', cursive;
+    
+}
+.dias{
+    padding: 15px;
+    margin: 5px;
+    text-align: center;
+    color: #1f1918;
+    font-size: 30px;
+    font-family: 'Handlee', cursive;
+}
+.boton {
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 15%;
+    font-family: 'Saira', sans-serif;
+}
+  
+.boton1 {
+    background-color: rgb(224, 185, 185); 
+    color: rgb(255, 255, 255); 
+}
+  
+.boton1:hover {
+    background-color: #c85c56;
+    color: white;
+}
+
+input[type="number"],
+textarea {
+  width: 7%;
+  padding: 20px;
+  border: 2px solid rgb(182, 179, 179);
+  border-radius: 6px;
+  resize: horizontal;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  }
+    
+  
